@@ -6,4 +6,5 @@
 
 
 #### Projeto hospedado no netlify 
-link: [cobrinhagame.netlify.app](cobrinhagame.netlify.app)
+link: 
+[https://cobrinhagame.netlify.app/](https://cobrinhagame.netlify.app/)
