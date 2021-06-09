@@ -5,4 +5,5 @@
 ### Projeto que recria o famoso jogo da cobrinha usando html,css e javascript.
 
 
-#### Link do projeto []()
+#### Projeto hospedado no netlify 
+link: [cobrinhagame.netlify.app](cobrinhagame.netlify.app)
